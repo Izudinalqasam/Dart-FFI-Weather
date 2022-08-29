@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/izzuddin.alqassam/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/izzuddin.alqassam/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dweather_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/CMakeLists.txt",
+    "/Users/izzuddin.alqassam/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/izzuddin.alqassam/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/izzuddin.alqassam/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/izzuddin.alqassam/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "weather-Debug-x86_64": {
+      "buildCommand": "/Users/izzuddin.alqassam/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/x86_64\" weather",
+      "buildType": "debug",
+      "toolchain": "3298246983",
+      "abi": "x86_64",
+      "artifactName": "weather",
+      "files": [
+        {
+          "src": "/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/src/weather.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/build/app/intermediates/cmake/debug/obj/x86_64/libweather.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3298246983": {
+      "cCompilerExecutable": "/Users/izzuddin.alqassam/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

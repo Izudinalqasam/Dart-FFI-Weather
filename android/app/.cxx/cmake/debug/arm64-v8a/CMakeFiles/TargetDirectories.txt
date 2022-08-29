@@ -1,0 +1,3 @@
+/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/weather.dir

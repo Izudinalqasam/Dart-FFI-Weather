@@ -1,0 +1,7 @@
+# ninja log v5
+0	47	1661732223	CMakeFiles/weather.dir/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/src/weather.c.o	47fa24614a8954e3
+47	77	1661732223	/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/build/app/intermediates/cmake/debug/obj/x86/libweather.so	3c68eaa516fcdc55
+0	78	1661732847	CMakeFiles/weather.dir/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/src/weather.c.o	47fa24614a8954e3
+79	140	1661732847	/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/build/app/intermediates/cmake/debug/obj/x86/libweather.so	3c68eaa516fcdc55
+1	68	1661733968	CMakeFiles/weather.dir/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/src/weather.c.o	47fa24614a8954e3
+68	122	1661733968	/Users/izzuddin.alqassam/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials/starter/build/app/intermediates/cmake/debug/obj/x86/libweather.so	3c68eaa516fcdc55
